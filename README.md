@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @jakevichnis
 - 👀 I’m interested in ... Optimization, coding, Ai, finance, $
-- 🌱 I’m currently learning ... DSA stuff, A.I. etc., I'm still in school!
-- 💞️ I’m looking to collaborate on ... Anything with Ai related coding!
+- 💻 I’m currently learning ... DSA stuff, A.I. etc., I'm still in school!
+- 🍻 I’m looking to collaborate on ... Anything with Ai related coding!
 - 📫 How to reach me ... https://www.linkedin.com/in/jake-vichnis-053a36190/
 - ⚡ Fun fact: ... as of 1/16/25 I'm still finishing up my BS in CS (w/ AI focus :P )
 
